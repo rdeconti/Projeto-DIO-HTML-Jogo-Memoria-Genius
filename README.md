@@ -31,7 +31,14 @@ Para iniciar o jogo basta executar o arquivo index.html em um navegador de inter
 
 # Exemplos de telas
 
-## Tela do jogo
+## Tela inicial
 
-<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Memoria-Genius/blob/main/serpente.jpeg" />
+<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Memoria-Genius/blob/main/Test-screens/Tela%20inicial.jpg" />
 
+## Tela de acerto
+
+<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Memoria-Genius/blob/main/Test-screens/Tela%20acertou.jpg" />
+
+## Tela de erro
+
+<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Memoria-Genius/blob/main/Test-screens/Tela%20errou.jpg" />
